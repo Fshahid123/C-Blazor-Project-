@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/UltraImages.net
+/UltraImages.net.Core/bin/Debug/net8.0
+/UltraImages.net.Core/obj/Debug/net8.0
+/UltraImages.net.Web/bin/Debug/net8.0
+/UltraImages.net.Web/obj
+/UltraImages.net.Core/obj
+/.vs
